@@ -10,16 +10,16 @@ Takes a SHA256 as input and queries the environment for GUIDs that have seen the
 
 ### Usage:
 ```
-python check_for_execution_simplified.py
+python check_for_execution.py
 ```
 or
 ```
-python check_for_execution_simplified.py db06c3534964e3fc79d2763144ba53742d7fa250ca336f4a0fe724b75aaff386
+python check_for_execution.py db06c3534964e3fc79d2763144ba53742d7fa250ca336f4a0fe724b75aaff386
 ```
 
 ### Example script output:  
 ```
-check_for_execution_simplified.py db06c3534964e3fc79d2763144ba53742d7fa250ca336f4a0fe724b75aaff386
+check_for_execution.py db06c3534964e3fc79d2763144ba53742d7fa250ca336f4a0fe724b75aaff386
 
 Computers that have seen the file: 15
 
