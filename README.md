@@ -19,8 +19,6 @@ python check_for_execution.py db06c3534964e3fc79d2763144ba53742d7fa250ca336f4a0f
 
 ### Example script output:  
 ```
-check_for_execution.py db06c3534964e3fc79d2763144ba53742d7fa250ca336f4a0fe724b75aaff386
-
 Computers that have seen the file: 15
 
 Hosts observed executing the file:
